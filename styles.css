@@ -2,7 +2,8 @@ body{
     background-color: #62c472;
     color: #470068;
     font-family: Tahoma, sans-serif;
-    text-align: center;
+    width: 700px;
+    margin: 0 auto;
 }
 
 h1{
